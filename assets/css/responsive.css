@@ -1,0 +1,2530 @@
+/*-------------------------------------------------*/
+/* 1. MOBILE VIEW RESPONSIVE
+/*-------------------------------------------------*/
+
+/*-------------------------------------------------------*/
+/* When the browser is 1300px to all small screens,below css will be applied.
+/*-------------------------------------------------------*/
+@media screen and (max-width:1300px) {
+
+
+    .choose-point {
+        top: -30px;
+        left: 0;
+    }
+
+
+    .destination .ani-de-tit,
+    .desti span {
+        transform: scale(1);
+    }
+
+    .destin-slider .carousel-control-prev-icon {
+        width: 15px;
+        left: 12px;
+    }
+
+    .destin-slider .carousel-control-next-icon {
+        width: 15px;
+        right: 12px;
+    }
+}
+
+/*-------------------------------------------------------*/
+/* When the browser is 1200px to all small screens,below css will be applied.
+/*-------------------------------------------------------*/
+@media screen and (max-width:1200px) {
+
+
+    .menu li {
+        padding: 0 16px;
+    }
+
+
+    .home-head {
+        width: calc(100% - 450px);
+        padding-left: 15px;
+    }
+
+    .banner-right-im {
+        width: 450px;
+    }
+
+
+    .ban-box ul li .ban-box-inn p {
+        font-size: 12px;
+    }
+
+    .plan-travel-img .offer {
+        right: -20px;
+    }
+
+    .why-ch-dt1 p {
+        padding: 0 50px 0 0;
+    }
+
+
+    .rhs-dis {
+        padding: 120px 0 0 100px;
+    }
+
+    .rhs-dis li {
+        margin: 0 0 30px 0;
+    }
+
+    .brands {
+        padding: 60px 80px 90px 80px;
+    }
+
+    .travel-exp-1 {
+        padding: 15px 15px 30px 15px;
+    }
+
+
+    .number-rat .container {
+        max-width: 1140px;
+    }
+
+    .tour-rating {
+        bottom: 50px;
+        right: 0;
+    }
+
+    .abt-info {
+        padding-right: 0;
+    }
+
+    .banner-right-im img {
+        width: 100%;
+    }
+
+    .destination {
+        text-align: center;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .desti-lhs {
+        width: 100%;
+    }
+
+    .desti-lhs a {
+        display: inline-block;
+        margin-top: 15px;
+        float: unset;
+    }
+
+    .destin-slider {
+        width: 100%;
+        margin-top: 15px;
+    }
+
+
+    .desti-lhs h2 {
+        padding: 40px 0 6px 0;
+    }
+
+    .pack-txt i {
+        width: 30%;
+        padding: 0;
+    }
+
+    .pack-txt b {
+        width: 34%;
+        padding: 0;
+    }
+
+    .pack-txt .pack-number {
+        padding: 7px 6px;
+    }
+
+    .our-recent-trip.ani-strt .experience {
+        padding: 0 15px;
+    }
+
+    .abt-lhs-img:before {
+        left: -20px;
+        top: -30px;
+    }
+
+
+    .common-banner .fly-icon {
+        background-size: 400px;
+    }
+
+    .contact-info-lhs span {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .faq-rhs:after {
+        left: auto;
+    }
+
+    .auther-in-txt {
+        padding: 35px 10px 35px 30px;
+    }
+
+    .auther-in-im img,
+    .auther-in-im:before {
+        height: 110px;
+        width: 110px;
+    }
+
+    .au-comm-box.reply-comm {
+        margin-left: 50px;
+    }
+
+    .blg-post-content {
+        width: 60%;
+    }
+
+    .comm-head .tit-line,
+    .comm-head .tit-line:before {
+        width: 20%;
+    }
+
+    .more-deatiles {
+        right: -20%;
+    }
+
+    .comm-ban-im img {
+        height: 270px;
+        right: 0;
+    }
+
+    .country-wise {
+        padding-bottom: 230px;
+    }
+
+    .ani-strt .destination:before {
+        width: 100%;
+    }
+
+    .pop-up2 {
+        width: 100%;
+        padding: 50px;
+    }
+
+    .pop-up1 {
+        display: none;
+    }
+
+    .why-choose {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .error-page-inn p {
+        padding: 0 30px 35px 30px;
+    }
+
+    .error-page-inn input {
+        margin-bottom: 40px;
+    }
+
+
+    .testimonails {
+        padding: 60px 0;
+    }
+
+
+    .testimonails-head {
+        padding: 100px 0;
+    }
+
+
+    .pack-det-icon {
+        width: 90%;
+    }
+
+    .ask-experts .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .traveller-advice-lhs h3 {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    .traveller-advice-lhs {
+        padding: 35px;
+    }
+
+    .traveller-point {
+        padding: 38px 35px;
+    }
+
+    .plan-travel-img:after {
+        top: -26px;
+        right: -15px;
+    }
+
+    .brand1 li {
+        padding: 0 20px;
+    }
+
+    .brand1-img {
+        margin: 20px 0 20px 0;
+    }
+
+    .brand1-img img {
+        width: 90px;
+        height: 90px;
+    }
+
+    .add-menu:after {
+        right: 0;
+        bottom: 0;
+    }
+
+    .price-and-rating {
+        width: 70%;
+    }
+
+    .book-fav-pack {
+        width: 29%;
+    }
+
+
+}
+
+
+/*-------------------------------------------------------*/
+/* When the browser is 1050px to all small screens,below css will be applied.
+/*-------------------------------------------------------*/
+
+@media screen and (max-width:1050px) {
+
+    .lhs-bg-1 {
+        padding-left: 20px;
+    }
+
+    .pack-txt i {
+        margin: 0 8px 0 8px;
+    }
+}
+
+/*-------------------------------------------------------*/
+/* When the browser is 992px to all small screens,below css will be applied.
+/*-------------------------------------------------------*/
+@media screen and (max-width: 992px) {
+
+    .menu-head .menu a.act {
+        color: #055dfd;
+    }
+
+    .menu-book {
+        display: block;
+        position: absolute;
+        left: 12px;
+        padding: 3px 0;
+        z-index: 20;
+        top: 7px;
+    }
+
+    .menu-book i {
+        color: #fff;
+        background: #2250fc;
+        padding: 4px 7px;
+        text-align: center;
+        font-size: 18px;
+        border-radius: 3px;
+        font-weight: 200;
+        float: left;
+    }
+
+    .menu {
+        float: left;
+        background: #fff;
+        position: fixed;
+        bottom: 0;
+        top: 44px;
+        height: 100%;
+        overflow: hidden;
+        overflow-y: auto;
+        padding: 0px 30px 50px 30px;
+        z-index: 20;
+        width: 300px;
+        left: -500px;
+        transition: all 0.9s ease;
+        border-radius: 0px;
+        box-shadow: -14px 7px 21px -14px #33333336;
+    }
+
+    .menu li {
+        width: 100%;
+        margin: 8px 0;
+        padding: 0px 0 8px 0px;
+        position: relative;
+        border-bottom: 1px solid #d8d8d8;
+        transition: all 0.4s ease;
+    }
+
+    .menu a {
+        width: 100%;
+        float: left;
+        text-align: left;
+        font-family: 'Josefin Sans', sans-serif;
+        text-transform: capitalize;
+        font-size: 15px;
+        position: relative;
+    }
+
+    .menu a:after {
+        font-family: "FontAwesome";
+        content: "\f105";
+        display: inline-block;
+        padding-right: 3px;
+        vertical-align: middle;
+        font-weight: 900;
+        right: 15px;
+        position: absolute;
+        top: 7px;
+    }
+
+    .menuact {
+        left: 0;
+        z-index: 99;
+    }
+
+    .menu-head.fix-menu .menu ul a:hover a:before,
+    .menu-head.fix-menu .menu a.act:before {
+        display: none;
+    }
+
+    .menu ul li:first-child {
+        display: block;
+    }
+
+
+    .menu-head {
+        background: #fff;
+        transition: all 1s ease;
+        box-shadow: 0px 0px 25px rgb(0 0 0 / 29%);
+        padding: 10px 0 10px 0;
+    }
+
+    .menu-head.fix-menu {
+        padding: 10px 0 10px 0;
+    }
+
+    .logo img {
+        width: 100px;
+        transition: all 1s ease;
+        left: 10px;
+    }
+
+    .logo {
+        margin-left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .menu-top3 {
+        position: absolute;
+        right: 15px;
+    }
+
+    .most-packages {
+        margin-bottom: 30px;
+    }
+
+    .palc-box-1 {
+        margin-top: 0px;
+    }
+
+    .lhs-bg-1 {
+        width: 52%;
+        padding: 80px 0;
+    }
+
+    .deatiles-footer {
+        width: 40%;
+    }
+
+    .tab-head ul li span {
+        width: 100%;
+    }
+
+
+    .tab-head ul li {
+        width: 50%;
+        padding: 0 8px 16px 8px;
+        border: 0;
+    }
+
+    .tab-head {
+        box-shadow: none;
+    }
+
+
+    .fav-im-1 {
+        width: 100%;
+        padding: 0;
+    }
+
+
+    .fearure-1 {
+        width: 60%;
+        padding: 4px 0 0 0;
+    }
+
+    .menu ul li.act {
+        background: linear-gradient(to right, #2c05fd0f, #ffffffed);
+        border-left: 2px solid #2250fc;
+        position: relative;
+        border-bottom: 0;
+        padding-left: 8px;
+    }
+
+
+    .menu-head .container {
+        max-width: 100%;
+    }
+
+    .menu span {
+        display: block;
+        position: absolute;
+        top: 14px;
+        right: 10px;
+    }
+
+    .sub-menu {
+        width: 300px;
+        transform: translateY(-8%);
+    }
+
+
+    .tab-head ul li .act,
+    .tab-head ul li span,
+    .tab-head ul li:nth-child(1) span,
+    .tab-head ul li:nth-child(4) span {
+        border-radius: 10px;
+        box-shadow: 0px 3px 18px -6px #4f494952;
+    }
+
+    .fav-pack-im {
+        border-radius: 20px 20px 0 0;
+    }
+
+
+    .menu a:hover {
+        color: #2250fc;
+    }
+
+    .packages.pack .designs-pack-1 {
+        transition-delay: 1s;
+    }
+
+
+    .menu-head.fix-menu .menu ul a:hover:before {
+        clip-path: circle(0);
+        background: none;
+        top: 10px;
+        display: none;
+    }
+
+
+
+    .nav,
+    .home-head .header-in-1,
+    .banner-ani-icon i,
+    .banner-ani-icon span,
+    .banner-ani-icon .midd-icon,
+    .plan-travel-img:before {
+        display: none;
+    }
+
+
+    .book-fav-pack {
+        width: 25%;
+    }
+
+    .price-and-rating {
+        width: 75%;
+    }
+
+
+    .home-head {
+        width: 100%;
+        text-align: center;
+        padding: 15% 0 8% 0;
+    }
+
+
+    .banner-right-im {
+        width: 100%;
+        z-index: 0;
+    }
+
+    .banner-right-im img.img-ani {
+        position: relative;
+        height: auto;
+        width: auto;
+        margin: 0 auto;
+        display: table;
+        top: -20px;
+    }
+
+    .ban-box {
+        background: none;
+    }
+
+    .ban-box ul li {
+        width: 47%;
+        background: #35364c;
+        margin: 0 10px 20px 10px;
+        border-radius: 20px;
+    }
+
+    .ban-box ul li .ban-box-inn {
+        padding: 51px;
+    }
+
+    .ban-box-com.act {
+        border-radius: 20px;
+    }
+
+    .plan-travel-img .plan-travel-img3 {
+        top: 0;
+        left: 45%;
+    }
+
+    .plan-travel-content {
+        margin: 25px 0 0 0;
+        padding: 0;
+    }
+
+    .why-choose.why-ani .why-choose-im {
+        width: 100%;
+        margin: 0 auto;
+        display: table;
+        float: unset;
+        padding: 0;
+    }
+
+    .why-ch-deati {
+        width: 100%;
+        padding-top: 80px;
+    }
+
+    .why-choose-im img {
+        height: 500px;
+    }
+
+    .why-choose-im i {
+        top: 0;
+        left: 70px;
+    }
+
+    .choose-point i,
+    .choose-point1 i {
+        left: 10px;
+        top: 6px;
+    }
+
+    .tab.tab-ani .tab-head {
+        box-shadow: none;
+    }
+
+    .im-tp-bg,
+    .fav-pack .backgroumd-bor {
+        display: none;
+    }
+
+    .fav-pack-deta {
+        width: 100%;
+    }
+
+    .testimo-header {
+        width: 100%;
+    }
+
+    .testi1 {
+        width: 100%;
+        margin-top: 40px;
+    }
+
+    .travel-exp-1 {
+        margin-bottom: 30px;
+    }
+
+    .rhs-dis {
+        width: 48%;
+        padding-left: 50px;
+    }
+
+    .lhs-bg-1 h2 {
+        font-size: 36px;
+    }
+
+    .why-choose-im .arrow-img {
+        display: block;
+        bottom: -17px;
+        height: 160px;
+        width: 160px;
+        transform: rotate(26deg);
+        right: 40px;
+    }
+
+    .number-of li {
+        width: 50%;
+    }
+
+    .abt-info {
+        margin-top: 70px;
+    }
+
+
+    .travller-det {
+        margin-top: 70px;
+    }
+
+
+    .tour-rating {
+        bottom: -50px;
+    }
+
+    .fin-desti {
+        display: none;
+    }
+
+    .contact-info-rhs {
+        margin-top: 30px;
+        padding: 0;
+    }
+
+    .plan-travel-img .offer {
+        display: none;
+    }
+
+    .header {
+        padding-top: 70px;
+        padding-bottom: 0;
+        overflow: hidden;
+    }
+
+    .travl-features {
+        padding: 80px 0 60px 0;
+        background: none;
+        overflow: hidden;
+    }
+
+
+    .home-head h1,
+    .ban-box {
+        z-index: 1;
+    }
+
+
+    .ban-box ul li .ban-box-com:after,
+    .ban-box ul li .ban-box-inn:after {
+        background: none;
+    }
+
+    .packages {
+        padding: 80px 0 50px 0;
+    }
+
+
+    .destination {
+        padding: 100px 40px 70px 40px;
+    }
+
+    .why-choose-im {
+        width: 100%;
+    }
+
+    .why-ch-dt1 i {
+        top: 50px;
+    }
+
+    .why-choose {
+        padding: 80px 15px 50px 15px;
+    }
+
+    .tab.ani-strt .tab-head {
+        box-shadow: none;
+        margin-bottom: 40px;
+    }
+
+    .tab {
+        padding: 80px 15px 80px 15px;
+    }
+
+    .country-wise {
+        padding: 80px 0 200px 0;
+    }
+
+    .travel-experts {
+        padding: 80px 0 68px 0;
+    }
+
+
+    .pack-txt i,
+    .pack-txt b {
+        width: auto;
+        padding: 7px 0 0 0;
+    }
+
+    .pack-txt .pack-number {
+        padding: 4px 6px;
+    }
+
+    .abt-all-worke {
+        padding: 70px 0;
+    }
+
+    .number-rat {
+        padding: 100px 0;
+    }
+
+    .our-recent-trip {
+        padding: 50px 0 140px 0;
+    }
+
+    .week-plans {
+        padding: 80px 0 100px 0;
+    }
+
+    .add-experts {
+        padding-top: 30px;
+    }
+
+    .abt-all-worke:after {
+        left: 0;
+    }
+
+    .blg-post {
+        padding: 80px 0 40px 0;
+    }
+
+    .common-banner .fly-icon.fly-any {
+        width: 50%;
+        background-size: 350px;
+        bottom: 40px;
+    }
+
+    .blg-post-deatiles h3 {
+        font-size: 18px;
+        line-height: 26px;
+        padding-bottom: 16px;
+    }
+
+    .plac-gal-imag {
+        width: 50%;
+    }
+
+    .faq-img {
+        margin: 0 0 60px;
+        0;
+    }
+
+    .faq:before {
+        bottom: -4%;
+    }
+
+    .faq-rhs:before {
+        bottom: 0;
+    }
+
+    .faq-img:after {
+        left: 0;
+    }
+
+
+    .blg-rhs {
+        padding: 0 15px;
+        margin-top: 55px;
+    }
+
+    .blg-lhs {
+        padding: 0 15px;
+    }
+
+    .sub-menu.typ-menu {
+        z-index: 99;
+
+        border: 1px solid #d8d8d8;
+        left: -30px;
+        width: 300px;
+        background: #fafafa;
+        padding-top: 20px;
+        visibility: hidden;
+        opacity: 0;
+    }
+
+    .sub-menu.typ-menu.menuact {
+        visibility: visible;
+        opacity: 1;
+        transform: translateY(51px);
+        transition: all 0.6s ease;
+    }
+
+    .add-menu .arrow1 {
+        z-index: 99;
+        right: 15px;
+        top: 7px;
+    }
+
+
+    .sub-menu.typ-menu a {
+        padding-bottom: 10px;
+        z-index: 1;
+    }
+
+    .menu ul li .pg-arrow:after {
+        transform: rotate(0deg);
+        right: 15px;
+    }
+
+    .menu a:before,
+    .menu-head.fix-menu .menu a:before,
+    .menu-head .menu a.act:before {
+        width: 102%;
+        height: 1px;
+        bottom: -9px;
+    }
+
+    .more-deatiles {
+        right: -32%;
+        padding-left: 80px;
+    }
+
+
+    .packages.ani-strt .packages-ani {
+        padding: 0 15px;
+    }
+
+
+    .brands {
+        padding: 60px 15px 52px 15px;
+    }
+
+    .menu ul li:last-child {
+        border: 0;
+    }
+
+    .wk-plans li {
+        padding: 20px;
+    }
+
+    .wk-plans-img h3 {
+        font-size: 22px;
+    }
+
+    .wk-plans:after {
+        border-width: 200px 0 0 200px;
+    }
+
+    .abt-lhs-img .abt-btm-im {
+        right: 140px;
+    }
+
+    .comm-p-t-b {
+        padding: 80px 0;
+    }
+
+    .add-testi1 {
+        padding: 80px 0;
+    }
+
+
+    .error-page-inn .hd {
+        margin-top: 0;
+    }
+
+
+    .help h4 {
+        width: 100%;
+    }
+
+    .book-btn-pack {
+        padding: 40px;
+        position: relative;
+        animation: none;
+        top: 0;
+        box-shadow: 0 1px 6px 0 #0a0a0a2b;
+        margin-bottom: 45px;
+    }
+
+
+    .pack-det-icon {
+        margin-left: -20px;
+        width: 100%;
+    }
+
+    .pack-det-icon li {
+        width: 25%;
+    }
+
+
+    .testimonails-head {
+        padding: 60px 0 80px 0;
+    }
+
+
+    .error-page {
+        padding: 130px 0 80px 0;
+    }
+
+    .ask-exp-content {
+        padding: 120px 40px 40px 40px;
+    }
+
+    .ask-exp-text {
+        width: 72%;
+    }
+
+    .ask-exp-text span {
+        font-size: 14px;
+    }
+
+    .ask-exp-img:before {
+        display: none;
+    }
+
+
+    .ask-exp-img {
+        top: 0;
+        right: 0;
+    }
+
+    .traveller-advice-lhs {
+        width: 50%;
+    }
+
+    .traveller-advice li {
+        width: 25%;
+    }
+
+    .search .bann-search,
+    .tour-typ {
+        width: 80%;
+    }
+
+    .search .submit-btn[type="submit"] {
+        width: 20%;
+    }
+
+    .brand1 ul li:nth-child(1) .brand1-img,
+    .brand1 ul li:nth-child(5) .brand1-img {
+        top: 0;
+    }
+
+    .brand1 ul li:nth-child(2) .brand1-img,
+    .brand1 ul li:nth-child(4) .brand1-img {
+        top: 0;
+    }
+
+    .plan-travel:after {
+        left: 20px;
+        z-index: -1;
+    }
+
+    .blg-inn-content .bl-in-test {
+        margin: 15px 0 45px 0;
+    }
+
+    .auther-comment {
+        padding-top: 55px;
+    }
+
+    .blg-inn-auther {
+        margin: 15px 0 0 0;
+    }
+
+    .desti .tp-slide {
+        left: 0;
+    }
+
+    .destination .ani-de-tit {
+        right: 0;
+    }
+
+    .top-click-1 {
+        display: none;
+    }
+
+    .top-click-1 h3 {
+        width: 100%;
+        padding: 10px 15px;
+    }
+
+    .top-cl-fun input {
+        float: left;
+        width: 100%;
+        padding: 15px;
+    }
+
+    .top-cl-fun span {
+        height: 20px;
+        width: 20px;
+        font-size: 12px;
+        line-height: 19px;
+    }
+
+    .cl-func span {
+        margin-right: 5px;
+    }
+
+    .click-sid-bar i {
+        margin-right: 0;
+    }
+
+    .brands:after {
+        display: none;
+    }
+
+    .sub-off-content {
+        padding: 0;
+    }
+
+    .sub-left-img,
+    .sub-off-content {
+        width: 100%;
+    }
+
+
+    .sub2-img img {
+        position: relative;
+        top: -118px;
+        float: right;
+    }
+
+    .sub-left-img:before {
+        display: none;
+    }
+
+    .sub2-img {
+        left: -40px;
+    }
+
+    .menu ul li:nth-child(3) a:after {
+        display: none;
+    }
+
+    .add-menu:after {
+        right: 18px;
+        bottom: 15px;
+    }
+
+    .menu ul {
+        box-shadow: none;
+    }
+    
+    .cl-func{top: -2px;}
+    
+    .tab-head ul li:nth-child(1), .tab-head ul li:nth-child(2), .tab-head ul li:nth-child(3), .tab-head ul li:nth-child(4){opacity: 1;transform: scale(1);}
+    
+    .fav-pack.act{    transform: translateY(0) scaleX(1);
+    opacity: 1;}
+    
+     .country-wise h2, .brands h2{font-size: 22px;line-height: 30px;}
+    
+    .country-wise h2:before{bottom: -12px;}
+    
+    .sub-off-content h2{line-height: 38px;font-size: 30px;}
+
+
+}
+
+/*-------------------------------------------------------*/
+/* When the browser is 768px to all small screens,below css will be applied.
+/*-------------------------------------------------------*/
+@media screen and (max-width:768px) {
+
+    .destination {
+        padding: 80px 15px 15px 15px;
+    }
+
+    .most-packages {
+        margin-bottom: 32px;
+    }
+
+    .packages {
+        padding: 60px 0 28px 0;
+    }
+
+    .lhs-bg-1 {
+        width: 100%;
+        text-align: center;
+        padding: 70px 0 0 0px;
+    }
+
+
+
+    .deatiles-footer,
+    .fearure-1,
+    .fearure-1 li {
+        width: 100%;
+        padding-left: 20px;
+    }
+
+
+    .features {
+        margin: 0 auto;
+        display: table;
+        padding-bottom: 35px;
+    }
+
+
+    .fav-pack-deta {
+        width: 100%;
+        padding: 40px 40px 80px 40px;
+        border: 0px;
+    }
+
+
+    .travel-experts {
+        padding: 60px 0 30px 0;
+    }
+
+    .tit {
+        padding-bottom: 30px;
+        z-index: 1;
+    }
+
+
+    .fearure-1 {
+        width: 100%;
+        padding-top: 35px;
+    }
+
+    .fearure-1 li {
+        padding: 8px 0;
+    }
+
+    .features-foter h2 {
+        padding-bottom: 0;
+    }
+
+
+    .packages.pack .designs-pack {
+        transition-delay: 0.6s;
+    }
+
+    .holiday-off .container {
+        max-width: 100%;
+    }
+
+    .holiday-off1,
+    .holiday-off1:before {
+        height: auto;
+    }
+
+    .pop-up2 {
+        padding: 35px 20px;
+    }
+
+    .pop-up2 h2 {
+        font-size: 24px;
+    }
+
+    .pop-up2 p {
+        font-size: 14px;
+    }
+
+
+    .ban-box ul li {
+        width: 100%;
+        margin: 20px 0;
+        text-align: center;
+    }
+
+    .ban-box ul li .ban-box-inn i {
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    .pack-ani-1 {
+        left: -45px;
+    }
+
+    .travl-features {
+        padding: 40px 15px 40px 15px;
+    }
+
+    .ban-box ul li .ban-box-inn p {
+        padding-right: 0;
+    }
+
+    .bg-dt-1 {
+        display: none;
+    }
+
+    .plan-travel {
+        padding: 10px 0 60px 0;
+    }
+
+    .plan-travel-img .plan-travel-img1,
+    .plan-travel-img .plan-travel-img3 {
+        width: 310px;
+    }
+
+    .plan-travel-content h2 {
+        padding-right: 0;
+    }
+
+    .why-choose {
+        padding: 60px 10px 30px 10px;
+    }
+
+    .why-choose-im .arrow-img {
+        right: -42px;
+    }
+
+    .why-choose-im i {
+        left: 20px;
+    }
+
+    .bg-dt,
+    .bg-dot-rhs {
+        display: none;
+    }
+
+    .rat-deati {
+        position: relative;
+        float: left;
+        width: 100%;
+        top: 35px;
+        left: 0;
+    }
+
+    .rat-deati .rat {
+        position: relative;
+        top: 0;
+        left: 0;
+        font-weight: 500;
+    }
+
+    .rat-deati span i {
+        margin-right: 6px;
+    }
+
+
+    .testi-lhs {
+        margin-bottom: 30px;
+    }
+
+
+    .rhs-dis li {
+        width: 100%;
+    }
+
+    .rhs-dis {
+        width: auto;
+        margin: 0 auto;
+        display: table;
+        padding: 40px 20px 60px 20px;
+    }
+
+
+    .abt-all-worke {
+        padding: 70px 0 70px 0;
+    }
+
+
+    .tab:before {
+        bottom: -20px;
+    }
+
+    .sli-ani li {
+        padding: 10px;
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+
+    .testimonails:before,
+    .testimonails:after {
+        width: 140%;
+    }
+
+
+    .country-wise {
+        padding: 60px 15px 180px 15px;
+    }
+
+    .travel-exp-1 img {
+        height: 100%;
+    }
+
+    .packages .container {
+        max-width: 540px;
+    }
+
+    .destination:before {
+        width: 106%;
+    }
+
+    .add-experts {
+        padding-top: 15px;
+    }
+
+
+    .abt-all-worke {
+        padding: 50px 0;
+    }
+
+    .week-plans {
+        padding: 60px 0 80px 0;
+    }
+
+    .wk-plans li {
+        width: 100%;
+        padding: 35px;
+    }
+
+    .abt-all-worke:after {
+        display: none;
+    }
+
+    .our-recent-trip:before {
+        display: none;
+    }
+
+
+    .wk-plans-img {
+        left: 0;
+    }
+
+    .blg-post {
+        padding: 60px 0 20px 0;
+    }
+
+    .plac-gal-imag {
+        width: 100%;
+    }
+
+    .blg-inn-auther {
+        text-align: center;
+        padding: 35px;
+    }
+
+    .auther-in-im {
+        float: unset;
+        margin: 0 auto;
+        display: table;
+    }
+
+    .auther-in-im img,
+    .auther-in-im:before {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+    }
+
+    .auther-in-im img,
+    .auther-in-im:before {
+        margin: 0 auto;
+        display: table;
+        float: unset;
+        top: 0;
+    }
+
+    .auther-in-txt {
+        width: 100%;
+        margin: 35px 0 0 0;
+        padding: 0;
+        border: 0;
+    }
+
+
+    .au-comm-text {
+        padding: 0 10px 0 30px;
+    }
+
+    .au-comm-box.reply-comm {
+        margin-left: 0;
+    }
+
+
+    .blg-in-comment ul li:nth-child(1),
+    .blg-in-comment ul li:nth-child(2) {
+        width: 100%;
+        padding-right: 0;
+    }
+
+    .blg-in-comment {
+        padding: 30px;
+    }
+
+    .comm-ban-im {
+        float: left;
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .comm-ban-im img.ab-ban {
+        height: 450px;
+        width: 100%;
+        position: relative;
+    }
+
+    .common-banner .fly-icon.fly-any {
+        width: 100%;
+        left: 0;
+        top: 40px;
+    }
+
+    .blg-inn-auther:hover .auther-in-im:before {
+        top: 14px;
+        left: 20px;
+    }
+
+    .country-wise:after {
+        display: none;
+    }
+
+    .comm-p-t-b {
+        padding: 60px 0;
+    }
+
+    .add-testi1 {
+        padding: 0;
+    }
+
+    .pack-det-icon li {
+        display: block;
+        width: 50%;
+        padding: 0 0 15px 0;
+    }
+
+    .pack-det-icon {
+        margin-left: 0;
+        padding-bottom: 30px;
+    }
+
+    .pack-det-icon li:after {
+        right: 40px;
+    }
+
+    .pack-det-icon ul li:last-child:after {
+        background: linear-gradient(to top, #fbe4e400, #fff7f7, #fff0);
+    }
+
+    .testimonails {
+        padding: 40px 0;
+    }
+
+
+    .add-testi {
+        padding: 180px 0 10px 0;
+    }
+
+    .error-page {
+        padding: 110px 15px 60px 15px;
+    }
+
+    .traveller-advice li {
+        width: 50%;
+    }
+
+    .ask-exp-img {
+        display: none;
+    }
+
+    .ask-exp-text {
+        width: 100%;
+        padding-top: 20px;
+    }
+
+
+    .traveller-advice-lhs {
+        width: 100%;
+        margin-bottom: 8px;
+    }
+
+    .traveller-advice li {
+        width: 50%;
+        padding: 0px 4px 8px 4px;
+    }
+
+    .tab {
+        padding: 60px 15px 65px 15px;
+    }
+
+    .why-choose:after {
+        display: none;
+    }
+
+    .plan-travel-img .plan-travel-img1 {
+        left: -50px;
+    }
+
+    .brand1-img {
+        margin: 0 0 25px 0;
+    }
+
+    .brand1 {
+        margin-top: 10px;
+    }
+
+    .brand1 li {
+        width: 100%;
+        padding: 0 35px;
+    }
+
+    .brand1 ul li:nth-child(2) .brand1-img,
+    .brand1 ul li:nth-child(4) .brand1-img {
+        display: none;
+    }
+
+    .brands {
+        padding: 60px 15px 25px 15px;
+    }
+
+    .desti .tp-slide,
+    .destination .ani-de-tit {
+        display: none;
+    }
+
+    .book-fav-pack {
+        width: 40%;
+    }
+
+    .price-and-rating {
+        width: 60%;
+        padding-left: 26px;
+    }
+
+    .traveller-advice li:after {
+        display: none;
+    }
+
+    .pack-det-icon ul li:nth-child(4) i {
+        width: 45px;
+    }
+    
+    .common-banner{padding: 120px 0 0 0;}
+
+}
+
+/*-------------------------------------------------------*/
+/* When the browser is 670px to all small screens,below css will be applied.
+/*-------------------------------------------------------*/
+@media screen and (max-width:670px) {
+
+    .experts-bg-dt,
+        {
+        display: none;
+    }
+
+    .abt-all-worke:before,
+    .abt-rhs-ani {
+        display: none;
+    }
+
+    .plan-travel-img .plan-travel-img1 {
+        width: 100%;
+        position: relative;
+        left: 0;
+    }
+
+    .plan-travel-img .plan-travel-img3 {
+        display: none;
+    }
+
+    .designs-pack,
+    .designs-pack-1 {
+        display: none;
+    }
+
+    .choose-point,
+    .choose-point1 {
+        display: none;
+    }
+
+    .testimonails-inner:before {
+        display: none;
+    }
+
+    .faq-img:before {
+        width: 100px;
+        height: 100px;
+        bottom: 0;
+    }
+
+    .faq-rhs:after {
+        width: 120px;
+        height: 120px;
+        top: -50px;
+    }
+
+    .more-deatiles {
+        padding-left: 130px;
+    }
+
+    .testimonails-head {
+        padding: 42px 0 50px 0;
+    }
+
+    .faq:before {
+        height: 80px;
+    }
+
+
+}
+
+/*-------------------------------------------------------*/
+/* When the browser is 576px to all small screens,below css will be applied.
+/*-------------------------------------------------------*/
+@media screen and (max-width:576px) {
+
+    .travel-icon li {
+        padding: 20px 15px 0 15px;
+    }
+
+
+    .deatiles-footer,
+    .fearure-1 {
+        padding-left: 30px;
+    }
+
+    .tab .container {
+        padding-left: 28px;
+        padding-right: 28px;
+    }
+
+    .travel-icon ul li:nth-child(4) {
+        margin-right: 0;
+    }
+
+    .lhs-bg-1 a {
+        padding: 10px 30px;
+        margin-right: 0;
+    }
+
+    .why-choose-im i {
+        left: 0;
+        margin: 0 auto;
+        width: 450px;
+        height: 450px;
+    }
+
+    .why-choose-im .arrow-img {
+        transform: rotate(45deg);
+        right: -23px;
+        bottom: 50px;
+        width: 100px;
+        height: 100px;
+    }
+
+    .choose-im {
+        float: unset;
+        width: auto;
+    }
+
+    .why-ch-dt1 h3,
+    .why-ch-dt1 p {
+        width: 100%;
+        text-align: center;
+    }
+
+    .why-ch-dt1 p {
+        padding: 0;
+    }
+
+    .why-choose .container {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .testimo-header {
+        padding: 10px 15px 0 15px;
+    }
+
+    .lhs-bg-1 {
+        padding: 70px 15px 0 15px;
+    }
+
+    .abt-info p {
+        padding-right: 10px;
+    }
+
+
+    .packages .container {
+        padding: 0 15px;
+        max-width: 100%;
+    }
+
+
+    .abt-lhs-img:before {
+        height: 50px;
+        width: 50px;
+    }
+
+    .week-plans p {
+        font-size: 14px;
+        padding: 25px 10px 0 10px;
+    }
+
+    .why-choose-im img {
+        height: 100%;
+    }
+
+    .banner-right-im img.img-ani {
+        width: 100%;
+        height: 100%;
+    }
+
+    .contact-info-rhs {
+        padding: 0 15px;
+    }
+
+
+    .error-page-inn h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    .error-page-inn .hd {
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    .error-page-inn p {
+        padding: 0 0 35px 0;
+    }
+
+    .package-deatiles h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .package-deatiles {
+        padding: 180px 20px 130px 20px;
+    }
+
+    .book-btn-pack {
+        padding: 20px;
+    }
+
+    .plan-travel:before {
+        right: -40px;
+        bottom: -80px;
+    }
+
+    .search {
+        padding: 0 15px;
+    }
+
+    .sub2-img {
+        left: 0;
+    }
+
+    .subscribe-off {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    .ask-experts {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
+/*-------------------------------------------------------*/
+/* When the browser is 520px to all small screens,below css will be applied.
+/*-------------------------------------------------------*/
+@media screen and (max-width:520px) {
+
+    .travel-icon {
+        padding-top: 15px;
+    }
+
+    .cpy-right p {
+        padding: 30px 15px;
+    }
+
+    .tab-head .tab-icon {
+        display: none;
+    }
+
+    .tab-head ul li span,
+    .tab-head ul li .act {
+        padding: 20px 20px 15px 20px;
+    }
+
+    .travel-icons i {
+        font-size: 22px;
+    }
+
+    .travel-icons p {
+        font-size: 9px;
+    }
+
+    .why-ani i,
+    .why-ani i {
+        display: none;
+    }
+
+    .number-of li {
+        text-align: center;
+        width: 100%;
+        display: flex;
+        align-content: center;
+        justify-content: center;
+    }
+
+    .number-of i {
+        float: left;
+        width: 100%;
+        left: 0;
+    }
+
+    .customer {
+        float: unset;
+        padding: 45px 0 0 0;
+    }
+
+    .customer span {
+        text-align: center;
+    }
+
+    .tour-rating {
+        display: none;
+    }
+
+    .our-recent-trip {
+        padding-bottom: 70px;
+    }
+
+    .contact-input ul li:nth-child(1),
+    .contact-input ul li:nth-child(2) {
+        width: 100%;
+        padding-right: 0;
+    }
+
+    .contact-input {
+        padding: 25px;
+    }
+
+    .contact-input li input {
+        padding: 14px 25px;
+    }
+
+    .tab:before {
+        bottom: -30px;
+    }
+
+    .home-head h1,
+    .home-head span {
+        font-size: 35px;
+        line-height: 35px;
+        letter-spacing: -1px;
+    }
+
+
+    .home-head b {
+        font-size: 45px;
+        line-height: 60px;
+        letter-spacing: -2px;
+    }
+
+    .desti-lhs h2 {
+        line-height: 35px;
+        font-size: 30px;
+    }
+
+    .tab:after {
+        height: 180px;
+        width: 180px;
+    }
+
+    .sli-ani li {
+        padding: 0;
+    }
+
+
+    .expe-img:before {
+        display: none;
+    }
+
+    .week-plans h2 {
+        font-size: 25px;
+        padding: 0 10px;
+    }
+
+    .faq-rhs ul li h3 {
+        font-size: 17px;
+        margin-right: 20px;
+    }
+
+    .au-comm-text {
+        width: 100%;
+        padding: 25px 10px;
+    }
+
+    .au-comm-box {
+        margin-bottom: 10px;
+    }
+
+    .abt-lhs-img .abt-btm-im {
+        right: 80px;
+    }
+
+    .faq-rhs ul li h3:before {
+        right: -20px;
+    }
+
+    .faq-rhs ul li h3:after {
+        right: -28px;
+    }
+
+    .include,
+    .excluded {
+        width: 100%;
+    }
+
+    .au-comm-text i {
+        top: 20px;
+    }
+
+    .testimonails-head {
+        padding: 47px 0;
+    }
+
+    .testimonails-head:before {
+        top: 7px;
+    }
+
+    .sub2-img img {
+        float: unset;
+        margin: 0 auto;
+        display: table;
+        top: -50px;
+    }
+
+    .sub2-img {
+       display: none;
+    }
+
+
+    .sub1-img img,
+    .sub1-img:before {
+        width: 100%;
+    }
+
+    .features-1 h6 {
+        margin-right: 25px;
+    }
+
+    .book-fav-pack {
+        width: 50%;
+    }
+
+    .price-and-rating {
+        width: 50%;
+        padding-left: 35px;
+    }
+
+    .price-and-rating .num-review {
+        margin-left: 0;
+        padding: 7px 4px;
+        margin-right: 4px;
+    }
+
+
+    .price-and-rating .review {
+        position: absolute;
+        top: -8px;
+        font-size: 14px;
+    }
+
+    .price-and-rating .str {
+        position: absolute;
+        left: auto;
+        bottom: -6px;
+    }
+
+    .customer h4 {
+        padding-left: 0;
+    }
+    
+    .sub-off-content{padding-top: 40px;}
+
+}
+
+/*-------------------------------------------------------*/
+/* When the browser is 480px to all small screens,below css will be applied.
+/*-------------------------------------------------------*/
+@media screen and (max-width:480px) {
+
+    .pop-up2 ul li:nth-child(2),
+    .pop-up2 ul li:nth-child(3),
+    .pop-up2 ul li:nth-child(4),
+    .pop-up2 ul li:nth-child(5) {
+        width: 100%;
+    }
+
+    .designs-pack,
+    .designs-pack-1 {
+        display: none;
+    }
+
+    .features-1 i {
+        font-size: 20px;
+    }
+
+    .features-1 h6 {
+        font-size: 12px;
+        margin-right: 14px;
+    }
+
+    .testi-lhs h3 {
+        font-size: 25px;
+    }
+
+    .testimo-header h3 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+
+
+    .home-head {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .more-packages-bg h2 {
+        font-size: 44px;
+        line-height: 48px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .recent-trav-lhs a {
+        padding: 12px 30px;
+    }
+
+    .header:after {
+        width: 150px;
+        height: 150px;
+    }
+
+    .typ-travel li {
+        text-align: center;
+        padding-left: 0;
+    }
+
+    .typ-travel i {
+        float: unset;
+    }
+
+    .typ-travel h4 {
+        width: 100%;
+        padding-left: 0;
+    }
+
+    .typ-travel span {
+        padding-right: 0;
+    }
+
+    .common-banner .fly-icon.fly-any {
+        top: 10px;
+        left: -50px;
+    }
+
+    .common-banner h2.abt-ani {
+        padding: 0 5px;
+    }
+
+    .why-choose-im .arrow-img {
+        display: none;
+    }
+
+
+    .tour-highli span {
+        padding: 0 0 13px 20px;
+    }
+
+    .package-gallery.realted-photo {
+        display: none;
+    }
+
+    .package-gallery {
+        width: 100%;
+    }
+
+    .package-deatiles {
+        text-align: center;
+    }
+
+    .package-rating {
+        margin: 0 auto;
+    }
+
+    .pack-det-icon li:after {
+        right: 0;
+        top: 0;
+    }
+
+    .pack-det-icon li {
+        text-align: center;
+        padding: 0 10px 15px 10px;
+    }
+
+    .pack-det-icon img {
+        float: unset;
+        width: 40px;
+        height: 40px;
+    }
+
+    .package-icon {
+        text-align: center;
+        padding: 7px 0 0 0;
+        width: 100%;
+    }
+
+    .detailes-traveller.detailes-traveller-ani {
+        display: none;
+    }
+
+    .ask-exp-content {
+        padding: 85px 25px 40px 25px;
+    }
+
+    .search .submit-btn[type="submit"] {
+        font-size: 12px;
+        width: 25%;
+    }
+
+    .search .bann-search,
+    .tour-typ {
+        font-size: 13px;
+        width: 75%;
+    }
+
+    .tour-typ .item {
+        font-size: 13px;
+    }
+
+    .tour-typ i {
+        font-size: 18px;
+    }
+
+    .search {
+        padding: 0;
+    }
+
+    .side-bar {
+        width: 100%;
+    }
+
+
+    .pack-det-icon i {
+        float: unset;
+    }
+
+    .plan-travel-content span {
+        padding-left: 10px;
+    }
+
+    .pack-det-icon ul li:nth-child(2):after,
+    .pack-det-icon ul li:nth-child(4):after {
+        display: none;
+    }
+    .plan-travel-content h2{font-size: 38px;line-height: 45px;}
+    
+    .plan-travel-content p{padding-top: 25px;}
+    
+    .destination:before{left: -200px;}
+    
+}
+
+/*-------------------------------------------------------*/
+/* When the browser is 420px to all small screens,below css will be applied.
+/*-------------------------------------------------------*/
+@media screen and (max-width:420px) {
+
+
+    .fav-pack-deta h2 {
+        font-size: 17px;
+        line-height: 30px;
+        padding-bottom: 30px;
+    }
+
+    .features-1 {
+        padding-bottom: 30px;
+    }
+
+
+    .tit h2 {
+        font-size: 40px;
+    }
+
+    .tit p {
+        margin-bottom: 10px;
+    }
+
+
+    .plan-travel-content h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .plan-travel-content p {
+        font-size: 13px;
+        padding: 24px 0 30px 0;
+    }
+
+    .plan-travel-content h4 {
+        font-size: 14px;
+    }
+
+    .fav-pack-deta {
+        padding: 30px 25px 80px 25px;
+    }
+
+    .fav-pack-im img {
+        height: 280px;
+    }
+
+    .lhs-bg-1 p {
+        font-size: 13px;
+    }
+
+    .abt-info li {
+        width: 100%;
+    }
+
+    .abt-info ul li:nth-child(2) {
+        margin-left: 0;
+    }
+
+    .contact-info-lhs p {
+        font-size: 13px;
+        line-height: 27px;
+    }
+
+    .contact-info-lhs i {
+        font-size: 20px;
+        height: 45px;
+        width: 45px;
+        border: 2px solid #e3e7eb;
+        line-height: 39px;
+    }
+
+    .contact-info-lhs span {
+        padding: 10px 0 0 12px;
+        letter-spacing: 0;
+    }
+
+    .pack-txt b {
+        width: 34%;
+        padding: 0;
+    }
+
+    .pack-txt .pack-number {
+        padding: 7px 6px;
+    }
+
+    .pack-txt .pack-number {
+        padding: 7px 6px;
+    }
+
+    .pack-txt i {
+        width: 30%;
+        padding: 0;
+    }
+
+    .contact-follow i {
+        line-height: normal;
+        height: 32px;
+        font-size: 14px;
+        width: 32px;
+    }
+
+    .blg-inn-content .bl-in-test {
+        font-size: 16px;
+    }
+
+    .more-deatiles {
+        padding-left: 80px;
+    }
+
+    .tab {
+        padding: 60px 0 60px 0;
+    }
+
+
+
+    .lhs-bg-1 h2 {
+        line-height: 42px;
+    }
+
+
+    .package-comm-head {
+        font-size: 20px;
+        padding: 2px 0 0 50px;
+    }
+
+
+    .error-page-inn input {
+        width: 70%;
+    }
+
+    .brand1 li {
+        padding: 0 10px;
+    }
+
+    .faq:before {
+        height: 68px;
+    }
+
+
+    .sub-off-text input {
+        width: 70%;
+    }
+
+    .sub-off-text .em-send-btn {
+        width: 30%;
+    }
+
+    .sub2-img:before {
+        width: 250px;
+    }
+
+    .sub2-img img {
+        width: 250px;
+    }
+
+    .ask-exp-text i {
+        line-height: 24px;
+        width: 22px;
+        height: 22px;
+    }
+
+    .traveller-point {
+        padding: 20px;
+    }
+}
+
+/*-------------------------------------------------------*/
+/* When the browser is 372px to all small screens,below css will be applied.
+/*-------------------------------------------------------*/
+@media screen and (max-width:372px) {
+
+    .tab-head ul li {
+        padding: 5px;
+    }
+
+    .tab-head ul li span {
+        font-size: 13px;
+    }
+
+    .plan-travel-content h4 {
+        margin: -4px -6px 0 0;
+    }
+
+    .lhs-bg-1 h2 {
+        font-size: 29px;
+        line-height: 45px;
+    }
+
+    .home-head b {
+        line-height: 68px;
+    }
+
+
+
+    .sli-ani li {
+        transform: perspective(300px) rotateX(-0.59deg) rotateY(-2.8deg) scale3d(1, 1, 1);
+    }
+
+    .blg-post-deatiles span {
+        font-size: 11px;
+    }
+
+    .blg-in-comment h2 {
+        font-size: 18px;
+    }
+
+    .why-choose-im i {
+        left: -20px;
+        width: 350px;
+        height: 350px;
+    }
+
+    .why-choose-im .arrow-img {
+        bottom: 70px;
+    }
+
+    .search .bann-search {
+        padding: 19px 40px 15px 40px
+    }
+
+    .search i {
+        left: 10px;
+        font-size: 20px;
+        padding-right: 12px;
+    }
+
+    .tour-typ {
+        padding: 12px 18px 12px 18px;
+    }
+
+    .book-fav-pack {
+        width: 55%;
+    }
+
+    .price-and-rating {
+        width: 45%;
+    }
+
+    .price-and-rating .num-review {
+        margin-top: 0;
+    }
+
+    .book-fav-pack {
+        border-right: 0;
+    }
+
+    .price-and-rating {
+        padding-left: 0;
+    }
+
+}
+
+/*-------------------------------------------------------*/
+/* When the browser is 364px to all small screens,below css will be applied.
+/*-------------------------------------------------------*/
+@media screen and (max-width:364px) {
+
+
+    .features-1 h6 {
+        margin: 0 8px 0 0;
+        line-height: 40px;
+    }
+
+
+    .comm-ban-im {
+        margin-top: 15px;
+    }
+
+    .recent-trav-lhs h2 {
+        line-height: 40px;
+    }
+
+    .pack-txt a {
+        font-size: 14px;
+    }
+
+
+
+    .home-head h1,
+    .home-head span {
+        line-height: 28px;
+    }
+
+    .side-bar-content h4,
+    .side-bar-content span {
+        width: 100%;
+    }
+
+}
